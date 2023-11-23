@@ -2,7 +2,7 @@
   "name": "videochatapp",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,3 +16,4 @@
     "uuid": "^9.0.1"
   }
 }
+
